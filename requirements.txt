@@ -1,0 +1,5 @@
+polars
+psycopg2-binary
+python-dotenv
+typing-extensions
+numpy
